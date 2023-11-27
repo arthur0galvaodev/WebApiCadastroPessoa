@@ -1,0 +1,17 @@
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\bin\Debug\net7.0\CadastroPessoa.Infra.Data.deps.json
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\bin\Debug\net7.0\CadastroPessoa.Infra.Data.runtimeconfig.json
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\bin\Debug\net7.0\CadastroPessoa.Infra.Data.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\bin\Debug\net7.0\CadastroPessoa.Infra.Data.pdb
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\bin\Debug\net7.0\CadastroPessoa.Domain.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\bin\Debug\net7.0\CadastroPessoa.Domain.pdb
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\CadastroPessoa.Infra.Data.csproj.AssemblyReference.cache
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\CadastroPessoa.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\CadastroPessoa.Infra.Data.AssemblyInfoInputs.cache
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\CadastroPessoa.Infra.Data.AssemblyInfo.cs
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\CadastroPessoa.Infra.Data.csproj.CoreCompileInputs.cache
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\CadastroPessoa.Infra.Data.csproj.CopyComplete
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\CadastroPessoa.Infra.Data.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\refint\CadastroPessoa.Infra.Data.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\CadastroPessoa.Infra.Data.pdb
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\CadastroPessoa.Infra.Data.genruntimeconfig.cache
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Infra.Data\obj\Debug\net7.0\ref\CadastroPessoa.Infra.Data.dll

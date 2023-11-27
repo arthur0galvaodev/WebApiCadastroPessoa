@@ -1,0 +1,15 @@
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\bin\Debug\net7.0\CadastroPessoa.Application.deps.json
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\bin\Debug\net7.0\CadastroPessoa.Application.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\bin\Debug\net7.0\CadastroPessoa.Application.pdb
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\bin\Debug\net7.0\CadastroPessoa.Domain.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\bin\Debug\net7.0\CadastroPessoa.Domain.pdb
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\CadastroPessoa.Application.csproj.AssemblyReference.cache
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\CadastroPessoa.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\CadastroPessoa.Application.AssemblyInfoInputs.cache
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\CadastroPessoa.Application.AssemblyInfo.cs
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\CadastroPessoa.Application.csproj.CoreCompileInputs.cache
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\CadastroPessoa.Application.csproj.CopyComplete
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\CadastroPessoa.Application.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\refint\CadastroPessoa.Application.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\CadastroPessoa.Application.pdb
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Application\obj\Debug\net7.0\ref\CadastroPessoa.Application.dll

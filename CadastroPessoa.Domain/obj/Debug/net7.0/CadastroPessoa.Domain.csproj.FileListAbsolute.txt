@@ -1,0 +1,11 @@
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\bin\Debug\net7.0\CadastroPessoa.Domain.deps.json
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\bin\Debug\net7.0\CadastroPessoa.Domain.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\bin\Debug\net7.0\CadastroPessoa.Domain.pdb
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\obj\Debug\net7.0\CadastroPessoa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\obj\Debug\net7.0\CadastroPessoa.Domain.AssemblyInfoInputs.cache
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\obj\Debug\net7.0\CadastroPessoa.Domain.AssemblyInfo.cs
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\obj\Debug\net7.0\CadastroPessoa.Domain.csproj.CoreCompileInputs.cache
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\obj\Debug\net7.0\CadastroPessoa.Domain.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\obj\Debug\net7.0\refint\CadastroPessoa.Domain.dll
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\obj\Debug\net7.0\CadastroPessoa.Domain.pdb
+D:\git\WebApiCadastroPessoa\CadastroPessoa.Domain\obj\Debug\net7.0\ref\CadastroPessoa.Domain.dll

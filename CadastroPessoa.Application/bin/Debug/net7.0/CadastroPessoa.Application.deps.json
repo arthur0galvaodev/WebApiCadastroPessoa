@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CadastroPessoa.Application/1.0.0": {
+        "dependencies": {
+          "CadastroPessoa.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CadastroPessoa.Application.dll": {}
+        }
+      },
+      "CadastroPessoa.Domain/1.0.0": {
+        "runtime": {
+          "CadastroPessoa.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadastroPessoa.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CadastroPessoa.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

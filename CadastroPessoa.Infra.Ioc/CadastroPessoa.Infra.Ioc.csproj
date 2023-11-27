@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CadastroPessoa.Application\CadastroPessoa.Application.csproj" />
+    <ProjectReference Include="..\CadastroPessoa.Domain\CadastroPessoa.Domain.csproj" />
+    <ProjectReference Include="..\CadastroPessoa.Infra.Data\CadastroPessoa.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
